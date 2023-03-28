@@ -3,6 +3,8 @@ title: "category-def"
 author: "kimarian"
 ---
 
+{% include katex.html %}
+
 # ベーシック圏論を読み始めた
 
 ![ベーシック圏論](https://www.amazon.co.jp/dp/4621300709/ref=\
