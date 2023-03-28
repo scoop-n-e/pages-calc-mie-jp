@@ -124,6 +124,7 @@ nginxでバーチャルホストを設定することで、`www.calc.mie.jp` `pa
 という設定ファイルの配置になっています。
 この各サイトの設定ファイルの内容はそれぞれ変わってきます。
 <!--
+
 <calc.mie.jp>
 ```
 server { ←80番ポート（HTTP)のアクセスをhttpsにリダイレクトする
@@ -156,6 +157,7 @@ CDHE-ECDSA-AES256-SHA384:ECDHE-RSA-AES256-SHA384:ECDHE-ECDSA-AES128-SHA256:ECDHE
 }
 ```
 -->
+
 例えばwww.calc.mie.jpにアクセスすると、httpの場合httpsに転送して、httpsの場合index.htmlを表示するという内容になっています。
 
 <!--
