@@ -1,7 +1,7 @@
 ---
 title: "category-def"
 author: "kimarian"
-layout: default
+layout: post
 ---
 
 # ベーシック圏論を読み始めた
