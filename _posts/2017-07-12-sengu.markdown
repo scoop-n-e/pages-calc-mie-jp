@@ -73,7 +73,9 @@ useradd -m -s /bin/bash -g 2000 -u $userid $username
 
 configファイルの内容は以下のようになっています。
 
+<!--
 <nginx.conf>
+-->
 
 ```
     user www-data; ←プロセスを起動するユーザーを指定します
@@ -156,7 +158,9 @@ CDHE-ECDSA-AES256-SHA384:ECDHE-RSA-AES256-SHA384:ECDHE-ECDSA-AES128-SHA256:ECDHE
 -->
 例えばwww.calc.mie.jpにアクセスすると、httpの場合httpsに転送して、httpsの場合index.htmlを表示するという内容になっています。
 
+<!--
 <www.calc.mie.jp>
+-->
 
 ```
 server {
