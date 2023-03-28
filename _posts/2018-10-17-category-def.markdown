@@ -1,9 +1,8 @@
 ---
 title: "category-def"
 author: "kimarian"
+layout: default
 ---
-
-{% include katex.html %}
 
 # ベーシック圏論を読み始めた
 
