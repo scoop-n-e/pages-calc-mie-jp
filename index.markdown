@@ -14,13 +14,12 @@ layout: home
 - 毎週月・木
 - 情報棟5階ゼミ室
 
-## 新入生向け記事
+## 新入生向け情報
 
 [新入生向け記事]({% link _posts/2020-02-29-calc-introduction.markdown %})
-{% post_url _posts/2020-02-29-calc-introduction.markdown %}
 
-## オンライン活動場所
+[新入生向け記事]({% post_url _posts/2020-02-29-calc-introduction.markdown %})
 
-Discord招待リンク
+[Discord招待リンク]()
 
 ※リンク切れの場合はtwitterで@1985isnotfoundまたは@sakaiineにDMで連絡をお願いします。
