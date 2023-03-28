@@ -18,7 +18,7 @@ layout: home
 
 [新入生向け記事]({% link _posts/2020-02-29-calc-introduction.markdown %})
 
-[新入生向け記事]({% post_url _posts/2020-02-29-calc-introduction.markdown %})
+{% post_url _posts/2020-02-29-calc-introduction.markdown %}
 
 [Discord招待リンク](https://discord.gg/9ygRnybmcE)
 
