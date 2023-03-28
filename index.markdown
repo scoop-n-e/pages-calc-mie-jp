@@ -16,7 +16,7 @@ layout: home
 
 ## 新入生向け記事
 
-
+{% link _posts/2020-02-29-calc-introduction.markdown %}
 
 ## オンライン活動場所
 
