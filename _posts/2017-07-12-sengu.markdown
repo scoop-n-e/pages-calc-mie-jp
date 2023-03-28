@@ -107,6 +107,7 @@ http {
 }
 
 ```
+
 nginxでバーチャルホストを設定することで、`www.calc.mie.jp` `pages.calc.mie.jp` といった複数のサイトを運用しています。
 
 そのため、
@@ -189,6 +190,7 @@ server {
   }
 }
 ```
+
 <!--
 <pages.calc.mie.jp>
 ```
