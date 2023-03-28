@@ -20,6 +20,6 @@ layout: home
 
 [新入生向け記事]({% post_url _posts/2020-02-29-calc-introduction.markdown %})
 
-[Discord招待リンク]()
+[Discord招待リンク](https://discord.gg/9ygRnybmcE)
 
 ※リンク切れの場合はtwitterで@1985isnotfoundまたは@sakaiineにDMで連絡をお願いします。
